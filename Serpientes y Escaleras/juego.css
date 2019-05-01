@@ -1,0 +1,19 @@
+html{
+    font-family: 'Century Gothic';
+    font-size: 20px;
+}
+#play1{
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    color: rgba(255, 145, 0, 0.911);
+}
+#play2{
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    color: rgb(0, 140, 255);
+}
+#p1, #p2{
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    display: block;
+}
